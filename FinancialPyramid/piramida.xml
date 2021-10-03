@@ -1,0 +1,8 @@
+<piramida>
+	<uczestnik id="1">
+		<uczestnik id="2"/>
+		<uczestnik id="3">
+			<uczestnik id="4"/>
+		</uczestnik>
+	</uczestnik>
+</piramida>
